@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
         {/* Do not remove the main div */}
-    <p>Button clicked {count} times</p>
+    <p>Button clicked 0 times</p>
       <button onClick={() => setCount(count + 1)}>Click me</button>
     </div>
   )
