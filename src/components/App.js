@@ -2,7 +2,7 @@
 import React from "react";
 import './../styles/App.css';
 
-function App = () => {
+function App() {
   const [count, setCount] = useState(0);
   return (
     <div>
